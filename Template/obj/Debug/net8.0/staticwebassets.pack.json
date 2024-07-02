@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TestesSSL\\Template\\Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Template.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Template.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TestesSSL\\Template\\Template\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\TestesSSL\\Template\\Template\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TestesSSL\\Template\\Template\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TestesSSL\\Template\\Template\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Template.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Template.props",
+      "PackagePath": "build\\Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Template.props",
+      "PackagePath": "buildMultiTargeting\\Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Template.props",
+      "PackagePath": "buildTransitive\\Template.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
